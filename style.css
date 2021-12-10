@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(233, 134, 54);
+  padding: 2rem;
+  font-size: 1.1rem;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  font-style: italic;
+}
+
+main {
+  padding: 2rem;
+}
+
+.ingridentMeal {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 3rem;
+}
+
+.ingridentMeal img {
+  width: 35%;
+  margin-left: 15rem;
+  border-radius: 20px;
+}
+
+.aboutMeal {
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+  background-color: #853e04;
+  color: white;
+  padding: 0 2rem;
+}
+
+footer {
+  text-align: center;
+}
